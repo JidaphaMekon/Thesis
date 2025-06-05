@@ -66,5 +66,7 @@ Apologies for any inaccuracies found in the content.
 
 โคร่งร่างงานวิจัย
 https://www.overleaf.com/project/681a12fff971eff32ab8728a
+
+
 https://www.kaggle.com/jidaphamekon
 

@@ -1,3 +1,4 @@
+![Chart Thesis](Chart-Thesis.jpg)
 
 
 📊 Quantitative Analysis Research

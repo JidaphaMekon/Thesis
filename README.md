@@ -1,4 +1,38 @@
 📊 Quantitative Analysis Research
+A Research Project on Quantitative Analysis in Financial Markets
+
+📌 Project Description
+This project is developed for educational and research purposes, focusing on quantitative analysis within the context of financial markets and investment data.
+
+Key topics covered in this project include:
+
+Fundamental Analysis
+
+Technical Analysis
+
+Developing Machine Learning and AI models for securities valuation
+
+Free Cash Flow Forecasting
+
+Backtesting investment strategies for performance evaluation
+
+Designing and managing financial databases
+
+⚠️ Disclaimer
+All content in this project is intended solely for learning and research purposes.
+There is no intention to provide investment advice or solicit investment in any securities or assets.
+
+Users who read or utilize this information should exercise their own judgment and consult multiple sources before making any investment decisions. The author takes no responsibility for any losses or damages resulting from the use of this information.
+
+🙏 Acknowledgements and Feedback
+Thanks to all data sources, tools, and the developer community that have contributed to this project.
+Any errors or suggestions for improvement are welcome and appreciated.
+
+Apologies for any inaccuracies found in the content.
+
+
+
+📊 Quantitative Analysis Research
 โครงการวิจัยการวิเคราะห์เชิงปริมาณในตลาดการเงิน
 
 📌 คำอธิบายโปรเจกต์ (Project Description)

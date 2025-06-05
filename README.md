@@ -1,12 +1,10 @@
 
+![Uploading Flow Chart-Thesis.jpg…]()
 📊 Quantitative Analysis Research
 A Research Project on Quantitative Analysis in Financial Markets
 
 📌 Project Description
 This project is developed for educational and research purposes, focusing on quantitative analysis within the context of financial markets and investment data.
-
-Key topics covered in this p![Flow Chart-Thesis](https://github.com/user-attachments/assets/8027ad1a-9a09-4adc-9fe5-32ef65e9f53e)
-roject include:
 
 Fundamental Analysis
 

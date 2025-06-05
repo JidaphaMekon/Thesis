@@ -1,3 +1,6 @@
+![Uploading Flow Chart-Thesis.jpg…]()
+
+
 📊 Quantitative Analysis Research
 A Research Project on Quantitative Analysis in Financial Markets
 

@@ -1,5 +1,3 @@
-![Uploading Flow Chart-Thesis.jpg…]()
-
 
 📊 Quantitative Analysis Research
 A Research Project on Quantitative Analysis in Financial Markets
@@ -16,6 +14,7 @@ Developing Machine Learning and AI models for securities valuation
 Free Cash Flow Forecasting
 
 Backtesting investment strategies for performance evaluation
+![Uploading Flow Chart-Thesis.jpg…]()
 
 Designing and managing financial databases
 

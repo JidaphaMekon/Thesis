@@ -1,5 +1,4 @@
 
-P![Uploading Flow Chart-Thesis.jpg…]()
 
 📊 Quantitative Analysis Research
 A Research Project on Quantitative Analysis in Financial Markets
@@ -7,7 +6,7 @@ A Research Project on Quantitative Analysis in Financial Markets
 📌 Project Description
 This project is developed for educational and research purposes, focusing on quantitative analysis within the context of financial markets and investment data.
 
-Fundamental Analysis
+Fundamental Analysis![Uploading Flow Chart-Thesis.jpg…]()
 
 Technical Analysis
 

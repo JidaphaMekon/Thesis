@@ -1,5 +1,5 @@
 
-![Flow Chart of Thesis](flowchart-thesis.jpg)
+Flow Chart-Thesis
 
 📊 Quantitative Analysis Research
 A Research Project on Quantitative Analysis in Financial Markets
